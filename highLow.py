@@ -1,6 +1,5 @@
 import random
 
-runLength = 0
 rightCount = 0
 wrongCount = 0
 
